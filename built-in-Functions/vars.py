@@ -1,0 +1,2 @@
+
+print(vars(list))
